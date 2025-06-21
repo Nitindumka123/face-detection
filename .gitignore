@@ -1,5 +1,28 @@
+<<<<<<< HEAD
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment folders
+venv/
+env/
+
+# Ignore everything else except main Python script
+*.py
+!haar_cascade.py
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS system files
+.DS_Store
+Thumbs.db
+=======
 __pycache__/
 *.pyc
 *.log
 .env
 .vscode/
+>>>>>>> f1ed715cb7a6c2be963f1d2de309390391db4521
